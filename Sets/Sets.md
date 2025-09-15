@@ -36,7 +36,7 @@ Example of Set-builder form of all positive even numbers: {x : x = 2n, n ∈ *N*
 * Every set is a subset of itself.
 * The empty set is a subset of every set. 
 * The total number of subsets of a finite set containing *n* elements is 2<sup>*n*</sup>. 
-* **Two sets A and B are qual if A ⊂ B and B ⊂ A**. In other words, all elements of set A must be in B and all elements of set B must be in set A.
+* **Two sets A and B are equal if A ⊂ B and B ⊂ A**. In other words, all elements of set A must be in B and all elements of set B must be in set A.
 * Two sets are **equivalent** if their cardinal numbers are the same, i.e., *n*(A) = *n*(B)
 
 ## Intervals as Subsets of *R*
