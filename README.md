@@ -4,4 +4,4 @@ This repository contains links to **mathematical formulae** divided into chapter
 
 ## Chapters:
 
-* Sets
+* [Sets] (https://github.com/shantanu-singh-git/math-formulas-and-notes/blob/main/Sets/Sets.md)
