@@ -145,7 +145,7 @@ If A and B are any two sets, then
 * A ⋂ (B - C) = (A ⋂ B) - (A ⋃ C)
 * A ⋂ (B Δ C) = (A ⋂ B) Δ (A ⋂ C)
 
-### Number of Elements in a Set Formulas 
+## Number of Elements in a Set Formulas 
 
 These formulas pertain to finite sets
 
