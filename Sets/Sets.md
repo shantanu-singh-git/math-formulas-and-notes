@@ -143,4 +143,24 @@ If A and B are any two sets, then
 * (A ⋂ B) - C = (A - C) ⋂ (B - C)
 * A - (B - C) = (A - B) ⋃ (A ⋂ C)
 * A ⋂ (B - C) = (A ⋂ B) - (A ⋃ C)
+* A ⋂ (B Δ C) = (A ⋂ B) Δ (A ⋂ C)
 
+### Number of Elements in a Set Formulas 
+
+These formulas pertain to finite sets
+
+* *n*(A ⋃ B) = *n*(A) + *n*(B) - *n*(A ⋂ B)
+* *n*(A ⋃ B) = *n*(A) + *n*(B) ⟺ A, B are disjoint non-void sets.
+* *n*(A - B) = *n*(A) - *n*(A ⋂ B)
+* *n*(B - A) = *n*(B) - *n*(A ⋂ B)
+* *n*(A Δ B) = No. of elements which belong to exactly one of A or B
+             = *n*((A - B) ⋃ (B - A))
+             = *n*(A - B) + *n*(B - A)
+             = *n*(A) - *n*(A ⋂ B) + *n*(B) - *n*(A ⋂ B)
+             = *n*(A) + *n*(B) - 2*n*(A ⋂ B) 
+* *n*(A ⋃ B ⋃ C) = *n*(A) + *n*(B) + *n*(C) - *n*(A ⋂ B) - *n*(B ⋂ C) - *n*(A ⋂ C) + *n*(A ⋂ B ⋂ C)
+* No. of elements in exactly two of the sets A, B, C = *n*(A ⋂ B) + *n*(B ⋂ C) + -3*n*(A ⋂ B ⋂ C)
+* No. of elements ine exactly one of the sets A, B, C = *n*(A) + *n*(B) + *n*(C) - 2*n*(A ⋂ B) - 2*n*(B ⋂ C) - 2*n*(A ⋂ C) + 3*n*(A ⋂ B ⋂ C)
+* *n*(A' ⋃ B') = *n*((A ⋂ B)') = *n*(*U*) - *n*(A ⋂ B)
+* *n*(A' ⋃ B') = *n*((A ⋃ B)') = *n*(*U*) - *n*(A ⋃ B)
+        
