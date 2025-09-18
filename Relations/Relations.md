@@ -6,7 +6,7 @@ Let A and B be two sets. An ordered pair consists of two objects or elements in 
 
 ### Equality of Ordered Pairs
 
-Two ordered pairs (a<sub>1</sub>, b<sub>a</sub>) = (a<sub>2</sub>, b<sub>2</sub>) iff a<sub>1</sub> = a<sub>2</sub> and b<sub>1</sub> = b<sub>2</sub>.
+Two ordered pairs (a<sub>1</sub>, b<sub>1</sub>) = (a<sub>2</sub>, b<sub>2</sub>) iff a<sub>1</sub> = a<sub>2</sub> and b<sub>1</sub> = b<sub>2</sub>.
 
 ## Cartesian Product of Sets 
 
