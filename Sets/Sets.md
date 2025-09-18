@@ -1,4 +1,4 @@
-# Short Notes and Mathematical Formulas for Sets 
+# Formulas and Short Notes on Sets 
 
 ## Special Sets 
 
