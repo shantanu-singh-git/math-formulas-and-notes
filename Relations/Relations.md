@@ -44,7 +44,9 @@ R is a relation from A to B ⟺ R ⊆ A × B.
 
 Relations are hence ordered pairs belonging to the subset of the cartesian product of two sets. It is can be represented in **roster form**, in **set-builder** form, through an **arrow diagram**, or via a **lattice diagram** on a cartesian plane (X-Y coordinates). 
 
-Assume 1 ∈ A and 3 ∈ B and (1 , 3) ∈ R. It can also be represented as 1R3. 
+Assume 1 ∈ A and 3 ∈ B and (1 , 3) ∈ R. It can also be represented as 1R3.
+
+Quintessnetially, Relation is simply a relationship between two sets. For example, if set X represents mothers in a locality and set Y represents children in the same locality, then relation R on X × Y can defined as "the  mother of" relationship. If x ∈ X, y ∈ Y, and xRy, then relation R is said to be x is the mother of y. 
 
 ### Domain
 
