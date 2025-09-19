@@ -75,6 +75,3 @@ Let A, B be two sets and let R be a relation from a set A to a set B. Then the i
 #### Note:
 
 Let A be a non-void set. Then, a relation from A to itself, that is, a subset of A × A, is called a relation on set A.
-
-
- of an arrow diagram representing the relation of "stays".
