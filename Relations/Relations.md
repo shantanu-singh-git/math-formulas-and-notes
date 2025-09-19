@@ -48,7 +48,7 @@ Assume 1 ∈ A and 3 ∈ B and (1 , 3) ∈ R. It can also be represented as 1R3.
 
 Quintessnetially, Relation is simply a relationship between two sets. For example, if set X represents mothers in a locality and set Y represents children in the same locality, then relation R on X × Y can defined as "the  mother of" relationship. If x ∈ X, y ∈ Y, and xRy, then relation R is said to be x is the mother of y. 
 
-* [Example of Arrow Representation of "stays" relation.](https://images.nagwa.com/figures/explainers/840107576915/3.svg)
+* [Example of Arrow Representation of "stays in" relation.](https://images.nagwa.com/figures/explainers/840107576915/3.svg)
 
 ### Domain
 
