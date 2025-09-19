@@ -44,7 +44,7 @@ R is a relation from A to B ⟺ R ⊆ A × B.
 
 Relations are hence ordered pairs belonging to the subset of the cartesian product of two sets. It is can be represented in **roster form**, in **set-builder** form, through an **arrow diagram**, or via a **lattice diagram** on a cartesian plane (X-Y coordinates). 
 
-Assume 1 ∈ A and 3 ∈ B and (1 , 3) ∈ R. It can also be represented as 1R3.
+*Assume 1 ∈ A and 3 ∈ B and (1 , 3) ∈ R. It can also be represented as 1R3*.
 
 Quintessnetially, Relation is simply a relationship between two sets. For example, if set X represents mothers in a locality and set Y represents children in the same locality, then relation R on X × Y can defined as "the  mother of" relationship. If x ∈ X, y ∈ Y, and xRy, then relation R is said to be x is the mother of y. 
 
@@ -54,23 +54,23 @@ Quintessnetially, Relation is simply a relationship between two sets. For exampl
 
 The domain of a relation is the set of all first componenets or coordinates of the ordered pairs belonging to R. 
 
-Dom(R) = {a : (a, b) ∈ R}.
+**Dom(R) = {a : (a, b) ∈ R}**.
 
 ### Range 
 
 The domain of a relation is the set of all second componenets or coordinates of the ordered pairs belonging to R. 
 
-Range(R) = {b : (a, b) ∈ R}. 
+**Range(R) = {b : (a, b) ∈ R}**. 
 
 ### Inverse of a Relation 
 
-Let A, B be two sets and let R be a relation from a set A to a set B. Then the inverse of R, denoted by R<sup>-1</sup>, is a relation from B to A and is defined by R<sup>-1</sup> = {(b, a) : (a, b) ∈ R}
+Let A, B be two sets and let R be a relation from a set A to a set B. Then the inverse of R, denoted by R<sup>-1</sup>, is a relation from B to A and is defined by **R<sup>-1</sup> = {(b, a) : (a, b) ∈ R}**.
 
 ### Domain and Range of the Inverse of a Relation
 
-* Dom(R) = Range(R<sup>-1</sup>). 
+* **Dom(R) = Range(R<sup>-1</sup>)**. 
 
-* Range(R) = Dom(R<sup>-1</sup>).
+* **Range(R) = Dom(R<sup>-1</sup>)**.
 
 #### Note:
 
